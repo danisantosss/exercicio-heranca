@@ -1,3 +1,3 @@
 # Solutis School Dev Trail
 
-Lista de Exercícios de Herança (01-05)
+Lista de Exercícios de Herança (01-06)
